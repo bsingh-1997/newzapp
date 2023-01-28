@@ -3,6 +3,7 @@ import './App.css';
 import Navbar from './components/navbar';
 import News from './components/News';
 import Newsitem from './components/Newsitem';
+import Checking from './components/checking';
 import {
   BrowserRouter,
   Route,
@@ -18,8 +19,8 @@ function App() {
 
         <Routes>
 
-          <Route path='/newzapp' element={<News pageSize={5}/>} ></Route>
-          {/* <Route exact path="/about" element={<Middle />}></Route> */}
+          {/* <Route path='/newzapp' element={<News pageSize={5}/>} ></Route> */}
+          <Route exact path="/about" element={<Checking/>}></Route>
 
         </Routes>
 
