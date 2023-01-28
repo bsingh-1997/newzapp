@@ -19,8 +19,8 @@ function App() {
 
         <Routes>
 
-          {/* <Route path='/newzapp' element={<News pageSize={5}/>} ></Route> */}
-          <Route exact path="/newzapp" element={<Checking/>}></Route>
+          <Route path='/newzapp' element={<News pageSize={5}/>} ></Route>
+          {/* <Route exact path="/newzapp" element={<Checking/>}></Route> */}
 
         </Routes>
 
