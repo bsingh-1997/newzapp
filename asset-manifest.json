@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/newzapp/static/css/main.34e523cc.css",
-    "main.js": "/newzapp/static/js/main.dd03abd5.js",
+    "main.js": "/newzapp/static/js/main.a844f445.js",
     "static/js/787.c01587b3.chunk.js": "/newzapp/static/js/787.c01587b3.chunk.js",
     "static/media/loading.gif": "/newzapp/static/media/loading.29cac189935058a25f87.gif",
     "static/media/logo.svg": "/newzapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/newzapp/index.html",
     "main.34e523cc.css.map": "/newzapp/static/css/main.34e523cc.css.map",
-    "main.dd03abd5.js.map": "/newzapp/static/js/main.dd03abd5.js.map",
+    "main.a844f445.js.map": "/newzapp/static/js/main.a844f445.js.map",
     "787.c01587b3.chunk.js.map": "/newzapp/static/js/787.c01587b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34e523cc.css",
-    "static/js/main.dd03abd5.js"
+    "static/js/main.a844f445.js"
   ]
 }
